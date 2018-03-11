@@ -1,5 +1,7 @@
 
-var GAMESTATE = 'START'; // 'PLAY', 'POINT', 'GAMEOVER'
+
+// Ball appears at random height with random velocity. Starts game when spacebar is pressed. 
+
 var score = {
 	player1: 0,
 	player2: 0
