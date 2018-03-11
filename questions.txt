@@ -1,0 +1,21 @@
+
+
+1.What is voltage?
+-Potential energy (electric charge imbalance) capable of getting electrons to flow through a conductor. 
+Technically measure of potential enrgy per unit charge of electrons. 
+Expressed as quantity between two points.
+
+2.What is resistance?
+-Measure of opposition to electric current.
+-They limit the amount of current through the circuit with given amount of voltage supplied by the battery,
+
+3. Is a short circuit an example of a closed or open circuit?
+-Closed. 
+
+4.How can you determine if a cricuit is closed or open?
+-Open circuits is when continuity has been broken by an interruption in the path for electrons to flow.
+-Closed circuits is the opposite, where electrons can continuously flow through. 
+
+
+5.Did you set up your computer to use the Feather?
+-Yes. 
