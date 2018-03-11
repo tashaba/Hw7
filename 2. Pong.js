@@ -1,4 +1,6 @@
 
+// Oscilator set to make sound when 'Game over' state. Set variables and created function. 
+
 
 var GAMESTATE = 'START'; // 'PLAY', 'POINT', 'GAMEOVER'
 var score = {
